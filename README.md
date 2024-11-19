@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mansi</h1>
 <h3 align="center">Software QA and Project Management Professional<h3> 
-<h5 align="left"> I have 8.5 Years of experince <br> I am a Project Management Professional and Software Quality Assurance Engineer with experience in ensuring top-quality products across mobile devices, tablets, laptops, and wearables. Certified in ISTQB Foundation Level and CAPM, I bring a blend of technical expertise and project management proficiency, reinforced by recent postgraduate studies in Project Management.
+<h5 align="left"> I have experience in ensuring top-quality products across mobile devices, tablets, laptops, and wearables. Certified in ISTQB Foundation Level and CAPM, I bring a blend of technical expertise and project management proficiency, reinforced by recent postgraduate studies in Project Management.
 
-My career includes extensive experience with global leaders like Samsung, where I managed complex QA processes and worked on high-impact projects such as 5G launches and app compatibility. I am skilled in Test Management, Test Strategy, Defect Management, and have worked with telecom technologies like 3G, 4G, 5G, VoLTE, and VoWifi.<br> My Expertise lies in Manual Testing and Test Managmenet specifically with Agile and Scrum methodologies for System testing and Acceptance Testing</h5>
+My career includes extensive experience with global leaders like Samsung, where I managed complex QA processes and worked on high-impact projects such as 5G launches and app compatibility. I am skilled in Test Management, Test Strategy, Defect Management, and have worked with telecom technologies like 3G, 4G, 5G, VoLTE, and VoWifi. My Expertise lies in Manual Testing and Test Managmenet specifically with Agile and Scrum methodologies for System testing and Acceptance Testing</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi&label=Profile%20views&color=0e75b6&style=flat" alt="mansi" /> </p>
 
